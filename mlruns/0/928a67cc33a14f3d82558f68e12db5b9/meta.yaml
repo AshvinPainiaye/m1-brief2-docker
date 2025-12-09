@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/928a67cc33a14f3d82558f68e12db5b9/artifacts
+deleted_time: 1764673766090
+end_time: 1764671436013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 928a67cc33a14f3d82558f68e12db5b9
+run_name: bemused-panda-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764671426239
+status: 4
+tags: []
+user_id: ashvi

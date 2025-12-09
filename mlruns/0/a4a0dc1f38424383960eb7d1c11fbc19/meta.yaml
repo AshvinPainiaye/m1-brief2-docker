@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a4a0dc1f38424383960eb7d1c11fbc19/artifacts
+deleted_time: 1764674242033
+end_time: 1764672282019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a4a0dc1f38424383960eb7d1c11fbc19
+run_name: secretive-fowl-162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764672266167
+status: 3
+tags: []
+user_id: ashvi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4fae31b7a963475f9c6229c79c8462fc/artifacts
+deleted_time: 1764673766093
+end_time: 1764671368668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4fae31b7a963475f9c6229c79c8462fc
+run_name: funny-shoat-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764671361464
+status: 4
+tags: []
+user_id: ashvi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b4ead6df69494d6c9e44df690b4bb878/artifacts
+deleted_time: 1764673766092
+end_time: 1764671214482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b4ead6df69494d6c9e44df690b4bb878
+run_name: painted-newt-73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764671191173
+status: 4
+tags: []
+user_id: ashvi

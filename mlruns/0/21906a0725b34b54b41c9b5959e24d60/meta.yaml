@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/21906a0725b34b54b41c9b5959e24d60/artifacts
+deleted_time: 1764674232445
+end_time: 1764672219849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 21906a0725b34b54b41c9b5959e24d60
+run_name: enthused-mare-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764672204828
+status: 3
+tags: []
+user_id: ashvi

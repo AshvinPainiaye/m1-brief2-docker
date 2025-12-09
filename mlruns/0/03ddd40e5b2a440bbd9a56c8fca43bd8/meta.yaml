@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/03ddd40e5b2a440bbd9a56c8fca43bd8/artifacts
+deleted_time: 1764673766090
+end_time: 1764672364524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 03ddd40e5b2a440bbd9a56c8fca43bd8
+run_name: gaudy-bird-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764672361469
+status: 4
+tags: []
+user_id: ashvi

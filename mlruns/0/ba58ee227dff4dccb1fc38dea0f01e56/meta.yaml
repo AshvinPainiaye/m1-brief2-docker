@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ba58ee227dff4dccb1fc38dea0f01e56/artifacts
+end_time: 1764673433556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba58ee227dff4dccb1fc38dea0f01e56
+run_name: bald-snail-977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764673141436
+status: 3
+tags: []
+user_id: ashvi
